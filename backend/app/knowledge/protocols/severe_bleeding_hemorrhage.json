@@ -1,0 +1,84 @@
+{
+  "protocol_id": "severe_bleeding_hemorrhage",
+  "topic": "Severe Bleeding & Hemorrhage Control",
+  "category": "Trauma & Wounds",
+  "keywords": [
+    "bleeding",
+    "severe bleeding",
+    "hemorrhage",
+    "arterial bleed",
+    "tourniquet",
+    "blood loss",
+    "deep cut",
+    "stab wound",
+    "laceration",
+    "wound packing",
+    "pressure bandage",
+    "gushing blood"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) immediately for arterial, spurting, or uncontrolled heavy bleeding. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Severe blood loss can cause hemorrhagic shock and fatal circulatory collapse within minutes. Stop the bleeding first.",
+    "Do not remove embedded objects (e.g. knife, glass, metal stake) from a wound; apply pressure around the object.",
+    "Do not loosen or remove a tourniquet once applied; only emergency medical hospital personnel should release it."
+  ],
+  "actionable_steps": [
+    "1. Scene Safety & Personal Protection: Ensure safety. Put on disposable medical gloves or use a protective barrier if available.",
+    "2. Expose the Wound: Cut or remove clothing over the bleeding site to pinpoint the exact source of active bleeding.",
+    "3. Apply Direct, Firm Pressure: Place clean gauze, cloth, or trauma dressing directly on the bleeding site. Push down with both hands using body weight. Maintain continuous, relentless pressure without lifting to check.",
+    "4. Pack the Wound (for deep junctional or cavity wounds): If direct pressure fails on groin, neck, or shoulder wounds, pack sterile gauze tightly directly into the wound cavity until full, then press firmly.",
+    "5. Tourniquet Application (for extremities - arms/legs): If severe arterial bleeding on a limb cannot be stopped by direct pressure, apply an approved commercial windlass tourniquet 2 to 3 inches above the wound (never over a joint). Tighten the windlass rod until the bright red bleeding stops and the distal pulse disappears. Lock the windlass in the clip.",
+    "6. Note Tourniquet Time: Write the exact time of tourniquet placement on the tourniquet time strap or the victim's forehead (e.g. 'T 11:45').",
+    "7. Prevent Hypothermia: Keep the patient warm by covering them with a blanket or coat, as hypothermia worsens blood clotting failure."
+  ],
+  "what_not_to_do": [
+    "Do not remove soaked dressings; add fresh layers of gauze directly on top and continue pressing.",
+    "Do not apply a tourniquet directly over an elbow, knee, or ankle joint.",
+    "Do not apply improvised wire or thin cords as tourniquets, which cut into tissue and cause nerve destruction."
+  ],
+  "source_metadata": {
+    "organization": "World Health Organization (WHO) & American College of Surgeons 'Stop the Bleed'",
+    "document_title": "WHO Emergency and Trauma Care & Bleeding Control Basic Guidelines",
+    "url": "https://www.stopthebleed.org/",
+    "published_or_reviewed_date": "2024-01-20",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "bleeding_01",
+      "title": "Direct Pressure and Wound Exposure",
+      "text": "Expose the wound completely to find the primary source of hemorrhage. Apply firm, unrelenting direct pressure using sterile gauze, clean cloth, or your hands. Press down with upper body weight. Maintain continuous pressure for at least 5 to 10 minutes without lifting dressings to inspect the wound.",
+      "keywords": [
+        "direct pressure",
+        "wound exposure",
+        "gauze",
+        "continuous pressure"
+      ]
+    },
+    {
+      "chunk_id": "bleeding_02",
+      "title": "Tourniquet Placement and Timing Protocol",
+      "text": "For life-threatening arm or leg arterial bleeding, place a commercial windlass tourniquet 2 to 3 inches proximal to the injury (between wound and heart), avoiding joints. Turn windlass until bright red bleeding and pulse cease. Secure the windlass rod and write the application time clearly. Never remove or loosen a tourniquet in the field.",
+      "keywords": [
+        "tourniquet",
+        "windlass",
+        "arterial bleed",
+        "time recorded",
+        "extremity bleeding"
+      ]
+    },
+    {
+      "chunk_id": "bleeding_03",
+      "title": "Wound Packing and Shock Management",
+      "text": "For junctional wounds where a tourniquet cannot fit (e.g., groin, armpit), pack hemostatic or standard gauze deeply into the bleeding cavity, pushing directly against the ruptured vessel, followed by 3 minutes of hard manual compression. Keep the victim warm with blankets to prevent trauma-induced hypothermia and coagulopathy.",
+      "keywords": [
+        "wound packing",
+        "junctional bleed",
+        "hemostatic",
+        "shock prevention",
+        "keep warm"
+      ]
+    }
+  ]
+}

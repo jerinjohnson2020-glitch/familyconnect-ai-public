@@ -1,0 +1,95 @@
+{
+  "protocol_id": "fractures_sprains_trauma",
+  "topic": "Fractures, Dislocations, & Musculoskeletal Trauma",
+  "category": "Trauma & Wounds",
+  "keywords": [
+    "fracture",
+    "broken bone",
+    "dislocation",
+    "sprain",
+    "splint",
+    "open fracture",
+    "bone sticking out",
+    "deformed limb",
+    "cannot walk",
+    "twisted ankle",
+    "immobilization",
+    "arm",
+    "leg",
+    "wrist",
+    "ankle",
+    "knee",
+    "elbow",
+    "shoulder",
+    "hip",
+    "bent",
+    "crooked",
+    "deformity",
+    "fall injury",
+    "impact",
+    "swelling"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) for open fractures (bone visible), severe deformities, suspected hip/pelvis/spine fractures, or if the limb is cold, pale, or pulseless. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Do NOT attempt to push an exposed bone back beneath the skin. This introduces deep contamination into bone marrow.",
+    "Do NOT attempt to straighten or realign a deformed bone or dislocated joint. Immobilize it in the exact position found.",
+    "Do NOT move a patient with suspected spinal, neck, or pelvic trauma unless in immediate life-threatening danger (e.g. fire)."
+  ],
+  "actionable_steps": [
+    "1. Assess and Support the Limb: Help the person support the injured body part in the most comfortable position. Tell them to stay as still as possible.",
+    "2. Control Bleeding in Open Fractures: If a bone has pierced the skin, apply sterile dressing over the wound. Apply pressure around the protruding bone edges, never directly on top of the bone fragment.",
+    "3. Immobilize the Joint/Bone: Support the injured limb using soft padding (rolled jackets, blankets, pillows) or an appropriate rigid splint. Secure the splint above and below the injured fracture site without overtightening.",
+    "4. Apply Cold Therapy: Apply an ice pack wrapped in a cloth or towel for 15-20 minutes at a time to reduce swelling and pain. Never place bare ice directly onto skin.",
+    "5. Check Circulation (PMS - Pulse, Motor, Sensory): Check if fingers or toes beyond the injury are warm, pink, and have normal sensation. If a limb turns blue, pale, or cold, loosen splint bindings immediately.",
+    "6. Call Emergency Services / Seek Medical Care: Arrange safe transport or call 112/108."
+  ],
+  "what_not_to_do": [
+    "Do not force the limb into normal alignment.",
+    "Do not test ability to walk or bear weight on a suspected fracture.",
+    "Do not apply ice directly to bare skin or open wounds."
+  ],
+  "source_metadata": {
+    "organization": "Indian Red Cross Society (IRCS) & International Federation of Red Cross and Red Crescent Societies (IFRC)",
+    "document_title": "Indian First Aid Guidelines for Fractures, Dislocations, and Musculoskeletal Trauma",
+    "url": "https://www.indianredcross.org/",
+    "published_or_reviewed_date": "2024-01-25",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical orthopaedic first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "fracture_01",
+      "title": "Immobilization Principles and Limb Support",
+      "text": "Support the injured bone or joint in the position it was found. Never attempt to realign or manipulate fractured bones. Splint above and below the fracture site using rolled blankets or rigid supports to prevent bone movement, which causes soft tissue and vascular laceration.",
+      "keywords": [
+        "immobilize",
+        "splint",
+        "do not realign",
+        "support limb"
+      ]
+    },
+    {
+      "chunk_id": "fracture_02",
+      "title": "Open Fracture Management",
+      "text": "For compound or open fractures where bone has broken through skin, control bleeding by applying pressure around the wound perimeter. Cover the exposed bone with a clean, moist sterile dressing. Never press directly onto the bone end or push it back into the wound cavity.",
+      "keywords": [
+        "open fracture",
+        "compound fracture",
+        "exposed bone",
+        "sterile dressing"
+      ]
+    },
+    {
+      "chunk_id": "fracture_03",
+      "title": "Circulation Check (Pulse, Motor, Sensation)",
+      "text": "After immobilizing, monitor peripheral perfusion: check warmth, skin color, and sensation in the extremities (fingers or toes) beyond the injury site. If the limb becomes pale, cyanotic, cold, or numb, splinting materials may be constricting blood supply and must be loosened immediately.",
+      "keywords": [
+        "circulation check",
+        "perfusion",
+        "numbness",
+        "cold fingers",
+        "loosen splint"
+      ]
+    }
+  ]
+}

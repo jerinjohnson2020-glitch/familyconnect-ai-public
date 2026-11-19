@@ -1,0 +1,23 @@
+{
+  "name": "familyconnect-ai-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test test/member_selection_regression.test.mjs test/phone_localization.test.mjs test/pwa_shortcut_and_config.test.mjs test/responder_and_geolocation.test.mjs test/mobile_tab_navigation.test.mjs test/pwa_completion.test.mjs test/first_aid_assistant.test.mjs test/privacy_mask.test.mjs test/demo_privacy_integration.test.mjs test/incident_message_and_first_aid_visibility.test.mjs test/first_aid_llm_summary.test.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.359.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}

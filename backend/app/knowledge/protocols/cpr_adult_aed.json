@@ -1,0 +1,94 @@
+{
+  "protocol_id": "cpr_adult_aed",
+  "topic": "Adult CPR & AED Operation",
+  "category": "Cardiac & Resuscitation",
+  "keywords": [
+    "cpr",
+    "adult cpr",
+    "chest compressions",
+    "aed",
+    "defibrillator",
+    "cardiac arrest",
+    "unresponsive",
+    "not breathing",
+    "heart stopped",
+    "hands only cpr",
+    "rescue breaths",
+    "resuscitation",
+    "no pulse",
+    "unconscious adult",
+    "chest push",
+    "mouth to mouth",
+    "revive",
+    "not breathing adult",
+    "life support"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance service, e.g., KANIV 108 in Kerala) immediately if an adult is unresponsive and not breathing normally. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "If the person is unresponsive and not breathing or only gasping, assume cardiac arrest and start CPR immediately.",
+    "Do not delay chest compressions to check for a pulse if you are not trained to do so.",
+    "Send someone immediately to locate and retrieve the nearest Automated External Defibrillator (AED)."
+  ],
+  "actionable_steps": [
+    "1. Verify Scene Safety: Ensure the area is safe for you and the victim before approaching.",
+    "2. Check Responsiveness: Tap the victim's shoulders firmly and shout loudly: 'Are you okay?'",
+    "3. Call for Emergency Help: If unresponsive, shout for immediate help. Instruct a specific bystander: 'Call 112 (or 108) and bring an AED!'",
+    "4. Check for Breathing: Look at the chest for normal breathing for no more than 10 seconds. Agonal gasps are NOT normal breathing.",
+    "5. Position for Compressions: Place the heel of one hand in the center of the chest (lower half of breastbone). Place the heel of your other hand on top and interlock fingers.",
+    "6. Deliver Hard & Fast Compressions: Push straight down at least 2 inches (5 cm) at a rate of 100 to 120 compressions per minute. Allow complete chest recoil between compressions.",
+    "7. Breaths or Hands-Only CPR: If trained, deliver 2 rescue breaths after every 30 compressions (1 second per breath, watch chest rise). If untrained, perform continuous Hands-Only CPR without stopping.",
+    "8. Use AED as soon as available: Turn on AED, adhere pads to bare chest as illustrated on pads, plug in connector, and follow audio instructions strictly. Ensure NO ONE touches the victim during rhythm analysis or shock delivery."
+  ],
+  "what_not_to_do": [
+    "Do not stop CPR for more than 10 seconds.",
+    "Do not lean on the chest between compressions; full recoil is required for blood to refill the heart.",
+    "Do not touch the patient while the AED is analyzing or administering a shock."
+  ],
+  "source_metadata": {
+    "organization": "Indian Resuscitation Council Federation (IRCF) & American Heart Association (AHA)",
+    "document_title": "Comprehensive Cardiopulmonary Life Support (CCLS) Guidelines & AHA Adult Basic Life Support",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines",
+    "published_or_reviewed_date": "2024-01-15",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public educational first-aid clinical guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "cpr_adult_01",
+      "title": "Adult CPR Recognition and Initial Emergency Actions",
+      "text": "When encountering a collapsed adult, first ensure the scene is safe. Tap the shoulders and shout to check responsiveness. If unresponsive and not breathing normally (or only agonal gasping), immediately call emergency services (112 or 108 in India) and send for an Automated External Defibrillator (AED).",
+      "keywords": [
+        "unresponsive",
+        "scene safety",
+        "call 112",
+        "check breathing",
+        "cardiac arrest"
+      ]
+    },
+    {
+      "chunk_id": "cpr_adult_02",
+      "title": "Chest Compression Technique and Rate",
+      "text": "Position the heel of one hand on the lower half of the breastbone, interlock fingers with the second hand. Deliver chest compressions at a depth of 2 inches (5 cm) and a cadence of 100-120 compressions per minute. Allow the chest to recoil fully between each compression. If untrained, provide continuous Hands-Only chest compressions without pauses.",
+      "keywords": [
+        "chest compressions",
+        "compression rate",
+        "100-120 bpm",
+        "hands only cpr",
+        "recoil"
+      ]
+    },
+    {
+      "chunk_id": "cpr_adult_03",
+      "title": "AED (Automated External Defibrillator) Operation",
+      "text": "As soon as an AED arrives, open its cover and turn it on. Expose the patient's bare chest, wipe away moisture if needed, and apply the self-adhesive pads exactly as diagrammed on pad packaging. Plug in the connector and listen to voice prompts. Shout 'STAND CLEAR' and make visual confirmation that no one touches the patient while analyzing or shocking. Immediately resume compressions after shock delivery.",
+      "keywords": [
+        "aed",
+        "defibrillator",
+        "pads",
+        "shock",
+        "stand clear",
+        "voice prompts"
+      ]
+    }
+  ]
+}

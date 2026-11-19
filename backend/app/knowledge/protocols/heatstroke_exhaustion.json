@@ -1,0 +1,98 @@
+{
+  "protocol_id": "heatstroke_exhaustion",
+  "topic": "Heat Exhaustion & Heatstroke Management",
+  "category": "Environmental Emergencies",
+  "keywords": [
+    "heatstroke",
+    "heat exhaustion",
+    "high body temperature",
+    "hyperthermia",
+    "sunstroke",
+    "hot weather illness",
+    "dizziness in heat",
+    "sweating stopped",
+    "dehydration",
+    "rapid cooling",
+    "sun",
+    "fever",
+    "hot day",
+    "summer",
+    "overheating",
+    "extreme heat",
+    "sweating",
+    "heat wave",
+    "dehydrated",
+    "passing out in sun"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) IMMEDIATELY for suspected Heatstroke. Heatstroke is a life-threatening medical emergency. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Distinguish Heat Exhaustion from Heatstroke: Heat exhaustion presents with heavy sweating, pale/cool skin, dizziness, and intact mental state. Heatstroke features body temp > 103°F (39.4°C), hot dry or damp red skin, confusion, agitation, slurred speech, or loss of consciousness.",
+    "Heatstroke causes brain, kidney, and organ damage within minutes. Cool first, transport second.",
+    "NEVER give fluids to a person who is confused, disoriented, or unconscious (aspiration hazard)."
+  ],
+  "actionable_steps": [
+    "1. For Suspected Heatstroke (Emergency):",
+    "   • Call 112/108 immediately.",
+    "   • Move person to cool shade or an air-conditioned room immediately.",
+    "   • Initiate Rapid Active Cooling: Immerse up to neck in cold water if safe, or spray/sponge continuously with cool water while aggressively fanning.",
+    "   • Place ice packs or cold wet towels on neck, armpits, and groin (where large blood vessels are near skin surface).",
+    "   • Monitor breathing and airway continuously.",
+    "2. For Heat Exhaustion (Mild to Moderate):",
+    "   • Move to cool, shaded or air-conditioned area.",
+    "   • Loosen or remove tight outer layers of clothing.",
+    "   • Provide small, frequent sips of cool water or oral rehydration salt (ORS) solution if conscious and alert.",
+    "   • Apply cool wet washcloths to skin.",
+    "   • If symptoms worsen, vomiting occurs, or recovery is not evident within 30 minutes, escalate to emergency hospital care."
+  ],
+  "what_not_to_do": [
+    "Do not give aspirin, paracetamol (acetaminophen), or fever reducers; they are ineffective for heat-induced hyperthermia and stress liver/kidneys.",
+    "Do not give alcoholic or caffeinated beverages.",
+    "Do not force fluids down the throat of an unalert or vomiting person."
+  ],
+  "source_metadata": {
+    "organization": "National Disaster Management Authority (NDMA), Government of India & Ministry of Health and Family Welfare (MoHFW)",
+    "document_title": "National Guidelines for Prevention and Management of Heat Wave & Heat-Related Illnesses",
+    "url": "https://ndma.gov.in/",
+    "published_or_reviewed_date": "2024-04-01",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public environmental health emergency guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "heat_01",
+      "title": "Differentiating Heat Exhaustion vs Life-Threatening Heatstroke",
+      "text": "Heat exhaustion presents with heavy sweating, pale clammy skin, nausea, headache, and weakness with preserved cognitive awareness. Heatstroke (temperature > 103°F/39.4°C) involves altered mental status, confusion, seizures, or coma, with hot skin (either dry or soaked in sweat). Heatstroke requires immediate 112 / 108 activation.",
+      "keywords": [
+        "heat exhaustion vs heatstroke",
+        "temperature 103",
+        "confusion",
+        "hot dry skin",
+        "call 112"
+      ]
+    },
+    {
+      "chunk_id": "heat_02",
+      "title": "Rapid Cooling Protocol for Heatstroke",
+      "text": "Rapid external cooling must begin immediately. Remove excess clothing. Sponge or spray the entire body with cool water while fanning rapidly to maximize evaporative heat loss. Apply ice packs wrapped in cloth directly to the neck, axillae (armpits), and groin to cool central circulation.",
+      "keywords": [
+        "rapid cooling",
+        "ice packs",
+        "armpits and groin",
+        "evaporative cooling",
+        "shade"
+      ]
+    },
+    {
+      "chunk_id": "heat_03",
+      "title": "Hydration Rules and Medication Contraindications",
+      "text": "For alert heat exhaustion patients, provide cool water or oral rehydration salts (ORS) in slow sips. Never give fluids to a patient with altered mental status or vomiting. Do not administer paracetamol, acetaminophen, or aspirin; these antipyretics do not lower ambient hyperthermia and can exacerbate hepatic/renal toxicity.",
+      "keywords": [
+        "ors",
+        "hydration",
+        "no paracetamol",
+        "no aspirin",
+        "no fluids if unconscious"
+      ]
+    }
+  ]
+}

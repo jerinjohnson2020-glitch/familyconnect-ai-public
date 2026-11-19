@@ -1,0 +1,87 @@
+{
+  "protocol_id": "stroke_fast_protocol",
+  "topic": "Suspected Stroke (F.A.S.T. Assessment)",
+  "category": "Neurological & Vascular",
+  "keywords": [
+    "stroke",
+    "fast test",
+    "face drooping",
+    "arm weakness",
+    "slurred speech",
+    "brain attack",
+    "paralysis",
+    "ischemic stroke",
+    "hemiplegia",
+    "loss of balance",
+    "sudden numbness",
+    "stroke symptoms"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) IMMEDIATELY. State clearly to the dispatcher: 'I suspect a stroke, patient is having acute neurological symptoms.' Rapid transport to a stroke-ready hospital within the 4.5-hour golden window is critical. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Time is Brain: Stroke treatments such as intravenous thrombolysis (tPA clot-busting medicine) and mechanical thrombectomy must be given within narrow clinical time windows (often within 3 to 4.5 hours of symptom onset).",
+    "NEVER give aspirin to a suspected stroke victim before hospital CT imaging. If the stroke is hemorrhagic (bleeding in the brain), aspirin will increase fatal bleeding.",
+    "Do NOT give anything by mouth (food, water, or medications); stroke frequently paralyzes swallowing reflexes, leading to fatal pulmonary aspiration."
+  ],
+  "actionable_steps": [
+    "1. Perform the F.A.S.T. Test Immediately:",
+    "   • F - Face Drooping: Ask the person to smile. Does one side of the face droop or look uneven?",
+    "   • A - Arm Weakness: Ask the person to raise both arms. Does one arm drift downward or fail to rise?",
+    "   • S - Speech Difficulty: Ask the person to repeat a simple phrase like 'The sky is blue'. Is speech slurred, strange, or unable to be produced?",
+    "   • T - Time to Call 112: If you observe any ONE of these signs, call emergency services immediately.",
+    "2. Note the 'Last Known Normal' Time: Look at the clock and record the exact time the person was last seen completely well.",
+    "3. Positioning: Help the person lie down in a safe, comfortable position with head slightly elevated. If conscious and breathing normally, keep them supported.",
+    "4. Recovery Position if Consciousness Declines: If the person has reduced alertness, is vomiting, or producing excess saliva, place them in the recovery position on their side to maintain an open airway.",
+    "5. Reassure and Monitor: Stay with the person, keep them calm and warm, and monitor breathing until paramedics arrive."
+  ],
+  "what_not_to_do": [
+    "Do not give aspirin, blood thinners, food, or water.",
+    "Do not let the person sleep or 'wait to see if symptoms improve'; every second of delay leads to millions of lost brain neurons.",
+    "Do not drive the patient to the hospital yourself if ambulance services are reachable; paramedics can initiate stroke alerts en route."
+  ],
+  "source_metadata": {
+    "organization": "Indian Council of Medical Research (ICMR) & American Stroke Association (ASA)",
+    "document_title": "ICMR Standard Treatment Workflows for Stroke & ASA Prehospital Emergency Care Guidelines",
+    "url": "https://www.icmr.gov.in/",
+    "published_or_reviewed_date": "2024-02-01",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical neurology first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "stroke_01",
+      "title": "The F.A.S.T. Stroke Identification Test",
+      "text": "Use the FAST mnemonic for acute stroke assessment: Face (ask to smile, check for unilateral drooping), Arms (ask to lift both arms, check for downward drift), Speech (ask to repeat a sentence, check for slurred or unintelligible words), Time (if any one sign is present, immediately call 112 / 108).",
+      "keywords": [
+        "fast test",
+        "face drooping",
+        "arm drift",
+        "slurred speech",
+        "stroke identification"
+      ]
+    },
+    {
+      "chunk_id": "stroke_02",
+      "title": "Last Known Well Time and Hospital Window",
+      "text": "Crucially determine and record the exact time the patient was 'last known well'. Modern acute ischemic stroke treatments (thrombolytic clot busters and endovascular mechanical thrombectomy) are strictly time-sensitive. Convey this timestamp clearly to first responders.",
+      "keywords": [
+        "last known well",
+        "time of onset",
+        "thrombolytic window",
+        "clot buster",
+        "tpa"
+      ]
+    },
+    {
+      "chunk_id": "stroke_03",
+      "title": "Patient Safety and Contraindicated Medications",
+      "text": "Keep the patient lying down with head and shoulders slightly supported. Never give aspirin, blood thinners, water, or food. Swallowing muscles may be paralyzed, causing aspiration into the lungs, and giving aspirin before a brain CT scan can be catastrophic if the stroke is hemorrhagic.",
+      "keywords": [
+        "no aspirin",
+        "no food or water",
+        "aspiration risk",
+        "recovery position",
+        "ct scan"
+      ]
+    }
+  ]
+}

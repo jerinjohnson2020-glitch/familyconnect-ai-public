@@ -1,0 +1,91 @@
+{
+  "protocol_id": "burns_thermal_chemical",
+  "topic": "Thermal, Scald, & Chemical Burns",
+  "category": "Trauma & Wounds",
+  "keywords": [
+    "burns",
+    "scalds",
+    "thermal burn",
+    "chemical burn",
+    "boiling water",
+    "skin peeling",
+    "blisters",
+    "fire burn",
+    "cool water 20 minutes",
+    "cling film",
+    "sunburn",
+    "electrical burn",
+    "hot oil",
+    "hot water",
+    "steam",
+    "fire",
+    "electrical shock",
+    "acid",
+    "blister",
+    "cold water on burn"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) for burns involving the face, airway, hands, genitals, major joints, or burns larger than the size of the victim's palm. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "NEVER use ice, ice-cold water, butter, toothpaste, oil, or greasy ointments on a burn. These trap heat, cause hypothermia, and destroy skin tissue.",
+    "Do NOT pop, puncture, or peel burn blisters. Intact skin protects against severe infection.",
+    "Do NOT peel away clothing that is melted or stuck to the burn tissue."
+  ],
+  "actionable_steps": [
+    "1. Stop the Burning Process: Extinguish flames, disconnect power sources (for electrical burns), or move away from heat.",
+    "2. Cool Under Running Water for 20 Minutes: Immediately irrigate the burn under clean, cool or lukewarm running tap water for a full 20 minutes. Cooling is effective up to 3 hours post-injury.",
+    "3. Remove Constricting Items: Gently remove rings, watches, bracelets, belts, or tight clothing around the burned area before progressive swelling occurs.",
+    "4. Leave Stuck Clothing: Cut around loose clothing, but leave any fabric that adheres directly to the burned skin in place.",
+    "5. Dress with Clean Plastic Wrap (Cling Film): Once thoroughly cooled, cover the burn loosely using clean plastic food wrap placed in flat layers (not wrapped tightly in circles) or a clean, lint-free sterile dressing.",
+    "6. Keep the Patient Warm: Cooling large body areas can induce hypothermia. Cover unburned areas with a dry blanket.",
+    "7. Chemical Burns Specifics: Brush off dry powder chemicals first, then continuously flush with running water for at least 20 to 30 minutes. Remove contaminated garments immediately."
+  ],
+  "what_not_to_do": [
+    "Do not apply ice or iced water, which causes frostbite-like vasoconstriction and worsens tissue necrosis.",
+    "Do not use cotton wool, adhesive bandages, or fluffy dressings that adhere to raw tissue.",
+    "Do not apply traditional home remedies (butter, turmeric paste, toothpaste, egg white)."
+  ],
+  "source_metadata": {
+    "organization": "Ministry of Health and Family Welfare (MoHFW), Government of India & World Health Organization (WHO)",
+    "document_title": "National Programme for Prevention and Management of Burn Injuries (NPPMBI) & WHO Burn Care Guidelines",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/burns",
+    "published_or_reviewed_date": "2024-03-15",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "burns_01",
+      "title": "Immediate 20-Minute Water Cooling Protocol",
+      "text": "Immediately hold the burned area under cool running tap water for a full 20 minutes. Do not use ice or freezing water. Cooling relieves severe pain, halts the inward thermal progression through deeper skin layers, and significantly reduces long-term scarring and surgical grafting needs.",
+      "keywords": [
+        "cool water",
+        "20 minutes",
+        "thermal burn",
+        "scald",
+        "no ice"
+      ]
+    },
+    {
+      "chunk_id": "burns_02",
+      "title": "Clothing, Jewelry, and Blister Care",
+      "text": "Promptly take off rings, watches, and tight clothing before the extremity begins to swell. If clothing is stuck to the burn, cut around it rather than ripping it off. Never pop, puncture, or debride blisters, as intact blister roofs provide a natural sterile biological barrier against bacterial infection.",
+      "keywords": [
+        "remove jewelry",
+        "swelling",
+        "stuck clothing",
+        "do not burst blisters"
+      ]
+    },
+    {
+      "chunk_id": "burns_03",
+      "title": "Dressing with Cling Film and Hospital Criteria",
+      "text": "Cover the cooled burn loosely with clean plastic cling film applied in layered sheets (not wrapped tightly around a limb). Seek emergency medical treatment (call 112 / 108) for burns larger than the patient's palm, full-thickness white or charred burns, chemical or high-voltage electrical burns, or burns affecting the face, neck, hands, or joints.",
+      "keywords": [
+        "cling film",
+        "burn dressing",
+        "when to go to hospital",
+        "emergency criteria"
+      ]
+    }
+  ]
+}

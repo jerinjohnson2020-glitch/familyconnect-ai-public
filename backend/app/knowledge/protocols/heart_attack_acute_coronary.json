@@ -1,0 +1,89 @@
+{
+  "protocol_id": "heart_attack_acute_coronary",
+  "topic": "Heart Attack Warning Signs & Acute Coronary First Aid",
+  "category": "Cardiac & Resuscitation",
+  "keywords": [
+    "heart attack",
+    "myocardial infarction",
+    "chest pain",
+    "angina",
+    "chest pressure",
+    "radiating arm pain",
+    "jaw pain",
+    "aspirin for heart attack",
+    "crushing pain in chest",
+    "cardiac distress",
+    "tight chest",
+    "chest ache",
+    "left arm pain",
+    "heavy chest",
+    "sweating chest pain",
+    "cardiac arrest risk"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) IMMEDIATELY at the first sign of a suspected heart attack. Do not wait to see if chest discomfort goes away. State to dispatcher: 'Suspected heart attack, acute chest pain.' Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Every minute of delay increases irreversible heart muscle necrosis. Act rapidly.",
+    "Women, elderly individuals, and diabetics often experience atypical heart attack symptoms: shortness of breath, unexplained nausea/vomiting, back or jaw pain without classic severe crushing chest pain.",
+    "Be prepared for sudden cardiac arrest. If the patient becomes unconscious and stops breathing, initiate CPR immediately."
+  ],
+  "actionable_steps": [
+    "1. Call 112 / 108 Immediately: Inform dispatch: 'Suspected heart attack, acute chest pain.'",
+    "2. Sit the Person Down & Rest: Have the person sit in a semi-seated position on the floor, leaning against a wall or sturdy chair with knees bent (W-position). This reduces strain on the heart muscle.",
+    "3. Loosen Restrictive Clothing: Loosen collar, necktie, bra, and belt to ease breathing.",
+    "4. Administer Aspirin (if conscious and no contraindications): If the patient is conscious, NOT allergic to aspirin, has no history of severe gastrointestinal bleeding, and not told by a doctor never to take aspirin, have them chew and swallow one adult 300 mg aspirin or two to four low-dose (81 mg) aspirins. Chewing accelerates drug absorption.",
+    "5. Assist with Prescribed Nitroglycerin: If the person has diagnosed angina and carries prescribed nitroglycerin spray or tablets, help them take their dose as directed.",
+    "6. Reassure and Keep Calm: Keep bystanders away. Provide calm reassurance to reduce anxiety and sympathetic cardiac workload.",
+    "7. Monitor Vitals: Continuously observe breathing and responsiveness. Locate an AED if nearby."
+  ],
+  "what_not_to_do": [
+    "Do not allow the person to walk, drive themselves to hospital, or engage in physical exertion.",
+    "Do not give aspirin if the person is allergic or actively bleeding.",
+    "Do not substitute acetaminophen (paracetamol) or ibuprofen for aspirin (they do not provide platelet inhibition benefits for acute coronary syndrome)."
+  ],
+  "source_metadata": {
+    "organization": "Indian Council of Medical Research (ICMR) & American Heart Association (AHA)",
+    "document_title": "ICMR Standard Treatment Workflows for Acute Coronary Syndrome & AHA Warning Signs Guidelines",
+    "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+    "published_or_reviewed_date": "2024-02-15",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical cardiology first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "heart_attack_01",
+      "title": "Heart Attack Warning Signs and Atypical Presentations",
+      "text": "Classical heart attack symptoms include pressure, tightness, squeezing, or pain in the center of the chest lasting more than a few minutes. Discomfort may radiate to the left shoulder, arms, neck, jaw, or upper back. Atypical symptoms (common in women and diabetics) include sudden shortness of breath, fatigue, dizziness, and cold sweats without chest pain.",
+      "keywords": [
+        "chest pressure",
+        "radiating pain",
+        "atypical symptoms",
+        "women heart attack",
+        "jaw pain"
+      ]
+    },
+    {
+      "chunk_id": "heart_attack_02",
+      "title": "Semi-Seated Positioning and Rest",
+      "text": "Immediately place the patient in a comfortable semi-seated posture on the ground with their back supported and knees bent. This position lowers venous return to the heart, reduces cardiac myocardial oxygen demand, and helps ease respiration.",
+      "keywords": [
+        "semi seated",
+        "w position",
+        "rest",
+        "reduce cardiac strain",
+        "knees bent"
+      ]
+    },
+    {
+      "chunk_id": "heart_attack_03",
+      "title": "Aspirin Administration and Monitoring",
+      "text": "If conscious, without aspirin allergy or active gastrointestinal hemorrhage, have the patient chew one 300 mg adult aspirin tablet (or 2-4 low dose 81 mg tablets). Chewing achieves antiplatelet action within minutes. If the patient becomes unresponsive and stops breathing normally, begin CPR immediately.",
+      "keywords": [
+        "aspirin",
+        "chew aspirin",
+        "antiplatelet",
+        "call 112",
+        "cpr standby"
+      ]
+    }
+  ]
+}

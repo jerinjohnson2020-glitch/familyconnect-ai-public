@@ -1,0 +1,81 @@
+{
+  "protocol_id": "choking_adult_child",
+  "topic": "Choking (Foreign Body Airway Obstruction)",
+  "category": "Airway & Respiratory",
+  "keywords": [
+    "choking",
+    "heimlich maneuver",
+    "abdominal thrusts",
+    "back blows",
+    "cannot breathe",
+    "food stuck in throat",
+    "airway obstruction",
+    "choking adult",
+    "choking child",
+    "strangling",
+    "gagging"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) immediately if the person cannot speak, cough, or breathe, or if they lose consciousness. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Distinguish mild vs severe obstruction: If the person can cough forcefully, speak, or cry, DO NOT interfere. Encourage them to keep coughing.",
+    "If the person cannot cough, cannot breathe, turns blue, or clutches their neck (universal sign of choking), act immediately with back blows and abdominal thrusts.",
+    "If the victim becomes unconscious, immediately lower them to the floor and initiate CPR."
+  ],
+  "actionable_steps": [
+    "1. Assess Severity: Ask 'Are you choking?' If they can speak or cough loudly, encourage coughing and monitor. If they cannot make sound, nod yes, or show extreme distress, treat for severe obstruction.",
+    "2. Deliver 5 Back Blows: Stand slightly behind and to the side of the person. Support their chest with one hand and lean them forward. Give up to 5 sharp blows between the shoulder blades with the heel of your hand.",
+    "3. Deliver 5 Abdominal Thrusts (Heimlich): If back blows fail, stand behind the person. Wrap your arms around the waist. Make a fist with one hand and place the thumb side against the abdomen, just above the navel and well below the ribcage. Grasp your fist with your other hand and press hard inward and upward in quick, distinct thrusts.",
+    "4. Alternate Cycles: Continue alternating 5 back blows and 5 abdominal thrusts until the object is expelled or the person becomes unconscious.",
+    "5. If Victim Becomes Unresponsive: Gently support them to the floor lying on their back. Call 112/108 immediately. Begin CPR with 30 chest compressions. Look inside the mouth before giving breaths; remove visible dislodged foreign bodies with a finger sweep. Never perform blind finger sweeps."
+  ],
+  "what_not_to_do": [
+    "Do not perform blind finger sweeps in the mouth; doing so can push the foreign object deeper into the airway.",
+    "Do not perform abdominal thrusts on pregnant women or infants under 1 year (use chest thrusts instead).",
+    "Do not hit someone on the back while they are standing upright, as gravity may pull the object further down (always lean them forward)."
+  ],
+  "source_metadata": {
+    "organization": "Indian Red Cross Society (IRCS) & International Federation of Red Cross and Red Crescent Societies (IFRC)",
+    "document_title": "Indian First Aid Manual & International First Aid Guidelines for Foreign Body Airway Obstruction",
+    "url": "https://www.indianredcross.org/",
+    "published_or_reviewed_date": "2024-02-10",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public educational first-aid clinical guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "choking_01",
+      "title": "Recognizing Severe Choking vs Mild Airway Obstruction",
+      "text": "For mild choking where the person can still cough loudly, talk, or breathe, stay with them and encourage continued coughing. Do not perform physical thrusts if they are coughing productively. For severe obstruction where the person is silent, clutching throat, unable to breathe, or turning cyanotic (blue), intervene immediately.",
+      "keywords": [
+        "choking signs",
+        "mild vs severe",
+        "universal choking sign",
+        "coughing"
+      ]
+    },
+    {
+      "chunk_id": "choking_02",
+      "title": "Back Blows and Abdominal Thrusts (Heimlich Technique)",
+      "text": "Deliver up to 5 firm back blows between the shoulder blades using the heel of your hand while leaning the victim forward. If clear, stop. If blocked, wrap arms around the upper abdomen, make a fist above the navel, and deliver up to 5 inward and upward abdominal thrusts. Alternate cycles of 5 back blows and 5 abdominal thrusts.",
+      "keywords": [
+        "back blows",
+        "abdominal thrusts",
+        "heimlich maneuver",
+        "navel",
+        "cycles"
+      ]
+    },
+    {
+      "chunk_id": "choking_03",
+      "title": "Unconscious Choking Protocol",
+      "text": "If a choking victim loses consciousness, ease them to the ground. Call emergency services (112 / 108 in India) immediately. Begin CPR starting with 30 chest compressions. Look in the mouth each time the airway is opened for breaths; if an object is clearly visible, sweep it out. Never perform a blind finger sweep.",
+      "keywords": [
+        "unconscious choking",
+        "cpr",
+        "foreign body",
+        "airway check",
+        "no blind finger sweep"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "protocol_id": "seizure_first_aid",
+  "topic": "Active Seizures & Post-Ictal First Aid",
+  "category": "Neurological & Vascular",
+  "keywords": [
+    "seizure",
+    "convulsions",
+    "epilepsy",
+    "grand mal",
+    "tonic clonic",
+    "shaking",
+    "frothing at mouth",
+    "fits",
+    "post ictal",
+    "jerking movements"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) immediately if: the seizure lasts longer than 5 minutes; a second seizure begins soon after; the person does not wake up; the person is pregnant or injured; or it is their first known seizure. Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "NEVER hold the person down or attempt to restrain their jerking limbs. Restraint can cause fractures and joint dislocations.",
+    "NEVER put anything into the person's mouth (no fingers, spoons, water, or cloth). It is physiologically impossible to swallow one's tongue, and inserting objects causes airway obstruction or teeth damage."
+  ],
+  "actionable_steps": [
+    "1. Stay Calm and Time the Seizure: Note the exact start time on a clock or watch.",
+    "2. Protect from Injury: Clear the surrounding area of hard, sharp, or hot objects (furniture, glasses). Ease the person to the floor if they are on a bed or chair.",
+    "3. Cushion the Head: Place something soft and flat under their head (folded towel, sweater, or pillow).",
+    "4. Loosen Constrictive Clothing: Loosen ties, collars, scarves, or tight clothing around the neck to aid breathing.",
+    "5. Turn to Recovery Position: As soon as violent convulsions subside (or immediately if vomiting or drooling), roll the person gently onto one side. This keeps saliva and vomit from blocking the airway.",
+    "6. Stay with Person Throughout: Remain calmly by their side until the seizure ends naturally and they are completely alert and oriented.",
+    "7. Post-Seizure Care: When consciousness returns, speak gently, explain what happened, and offer reassurance. Allow them to rest."
+  ],
+  "what_not_to_do": [
+    "Do not restrain or hold down the person.",
+    "Do not place anything in their mouth.",
+    "Do not give CPR while the person is actively having a seizure (convulsions cause irregular breathing, which normalizes when the fit finishes).",
+    "Do not offer water or medicine until the person is fully alert and answering questions coherently."
+  ],
+  "source_metadata": {
+    "organization": "Indian Epilepsy Association (IEA) & World Health Organization (WHO)",
+    "document_title": "IEA Public First Aid Guidelines for Generalized Tonic-Clonic Seizures & WHO mhGAP",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/epilepsy",
+    "published_or_reviewed_date": "2024-01-10",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public neurological first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "seizure_01",
+      "title": "General Seizure Safety and Head Protection",
+      "text": "During an active convulsive seizure, stay calm and track elapsed time. Move away furniture, glasses, and sharp hazards. Place something soft under the head to prevent blunt cranial trauma. Loosen tight neckwear. Do not restrain body movements or hold limbs down.",
+      "keywords": [
+        "cushion head",
+        "clear hazards",
+        "do not restrain",
+        "time the seizure"
+      ]
+    },
+    {
+      "chunk_id": "seizure_02",
+      "title": "Airway Safety and Mouth Precautions",
+      "text": "Never place any object, spoon, or fingers into the mouth of a seizing person. People do not swallow their tongue during a seizure; forcing items into clenched jaws causes broken teeth, tissue laceration, and compromised airway. Gently turn the victim onto their side (recovery position) to allow fluids to drain outward.",
+      "keywords": [
+        "nothing in mouth",
+        "cannot swallow tongue",
+        "recovery position",
+        "clear airway"
+      ]
+    },
+    {
+      "chunk_id": "seizure_03",
+      "title": "When to Call 112 / Emergency Services for Seizures",
+      "text": "Call emergency medical services (112 / 108 in India) if: the seizure lasts 5 minutes or longer (status epilepticus risk); another seizure begins without regaining consciousness; the person has difficulty breathing after convulsion ends; the event occurs in water; the person is pregnant or injured; or the individual has no prior epilepsy history.",
+      "keywords": [
+        "when to call 112",
+        "5 minute rule",
+        "status epilepticus",
+        "first seizure",
+        "post ictal"
+      ]
+    }
+  ]
+}

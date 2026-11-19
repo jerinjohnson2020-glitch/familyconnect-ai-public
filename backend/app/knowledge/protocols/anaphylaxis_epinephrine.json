@@ -1,0 +1,88 @@
+{
+  "protocol_id": "anaphylaxis_epinephrine",
+  "topic": "Anaphylaxis & Severe Allergic Reactions",
+  "category": "Allergy & Respiratory",
+  "keywords": [
+    "anaphylaxis",
+    "allergic reaction",
+    "epipen",
+    "epinephrine",
+    "adrenaline",
+    "peanut allergy",
+    "bee sting",
+    "swollen tongue",
+    "swollen lips",
+    "hives",
+    "wheezing",
+    "throat closing"
+  ],
+  "emergency_call_guidance": "Call 112 (India's pan-India emergency response number) or 108 (Ambulance, e.g., KANIV 108 in Kerala) IMMEDIATELY when symptoms of anaphylaxis appear. State to the dispatcher: 'Severe allergic reaction, possible anaphylaxis.' Note: 112 is available nationwide; 108 availability may vary by locality.",
+  "critical_warnings": [
+    "Anaphylaxis can become fatal within minutes due to complete airway closure or profound anaphylactic shock (blood pressure drop).",
+    "Epinephrine (adrenaline) is the only first-line life-saving treatment. Antihistamines and inhalers do NOT treat airway swelling or circulatory shock in anaphylaxis.",
+    "DO NOT allow the person to stand or walk. Sudden upright posture can cause blood pressure to collapse fatally."
+  ],
+  "actionable_steps": [
+    "1. Call 112 / 108 Immediately: Inform emergency dispatch that epinephrine is being prepared or administered.",
+    "2. Lay the Person Flat: Keep the person lying flat on their back with legs elevated if dizzy. If breathing is difficult, allow them to sit on the floor, but do NOT let them stand up.",
+    "3. Administer Epinephrine Auto-Injector (EpiPen / Auto-injector):",
+    "   • Form a fist around the injector and pull off the safety cap.",
+    "   • Hold leg firmly and push the injector tip firmly into the outer mid-thigh at a 90-degree angle (can inject directly through clothing).",
+    "   • Listen for click and hold firmly in place for 3 seconds (or manufacturer instructions).",
+    "   • Remove device and massage the injection site for 10 seconds.",
+    "4. Note the Time of Administration: Record the exact time the first injection was given.",
+    "5. Second Dose if No Improvement: If there is no improvement or symptoms worsen after 5 minutes and emergency responders have not arrived, administer a second epinephrine dose in the opposite thigh.",
+    "6. Prepare for CPR: If the person becomes unresponsive and stops breathing normally, begin chest compressions immediately."
+  ],
+  "what_not_to_do": [
+    "Do not allow the patient to stand up, walk, or move around.",
+    "Do not delay epinephrine administration while trying oral antihistamines or asthma inhalers.",
+    "Do not place the injection into the buttock, hand, foot, or vein (outer mid-thigh only)."
+  ],
+  "source_metadata": {
+    "organization": "World Allergy Organization (WAO) & Ministry of Health and Family Welfare (MoHFW), Government of India",
+    "document_title": "WAO Anaphylaxis Guidance & National Emergency First-Aid Practice",
+    "url": "https://www.worldallergy.org/",
+    "published_or_reviewed_date": "2024-03-01",
+    "accessed_date": "2026-10-26",
+    "license_note": "Public clinical allergy first-aid guidance"
+  },
+  "chunks": [
+    {
+      "chunk_id": "anaphylaxis_01",
+      "title": "Recognizing Anaphylaxis Symptoms",
+      "text": "Anaphylaxis symptoms include swelling of the lips, tongue, or throat, persistent cough or wheezing, difficulty breathing or swallowing, dizziness, sudden pallor or collapse, and widespread hives or itching. Any combination involving breathing or circulation difficulty following exposure to an allergen (food, insect venom, medication) constitutes a life-threatening emergency.",
+      "keywords": [
+        "anaphylaxis signs",
+        "swollen tongue",
+        "hives",
+        "wheezing",
+        "throat tightness"
+      ]
+    },
+    {
+      "chunk_id": "anaphylaxis_02",
+      "title": "Epinephrine Administration Protocol",
+      "text": "Administer the epinephrine auto-injector into the outer mid-thigh immediately. Push firmly until the spring mechanism activates with a click, hold for 3 seconds, then withdraw and rub the site. Epinephrine reverses airway bronchospasm and elevates plummeting blood pressure.",
+      "keywords": [
+        "epipen",
+        "epinephrine",
+        "mid thigh",
+        "auto injector",
+        "3 seconds"
+      ]
+    },
+    {
+      "chunk_id": "anaphylaxis_03",
+      "title": "Positioning and Second Injection Rule",
+      "text": "Keep the patient lying completely flat; never allow them to stand or walk, as upright posture reduces blood return to the heart. If symptoms fail to resolve after 5 minutes, administer a second epinephrine auto-injector into the other thigh. Call 112 / 108 immediately.",
+      "keywords": [
+        "lay flat",
+        "do not stand",
+        "second dose",
+        "5 minute rule",
+        "call 112"
+      ]
+    }
+  ]
+}
